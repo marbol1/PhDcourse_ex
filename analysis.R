@@ -1,7 +1,7 @@
 # analysis.R
 # A tiny descriptive-stats script used to practise Git.
 
-values <- c(4, 8, 15, 16, 23, 42, 4, 76, 3)
+values <- c(4, 8, 15, 16, 23, 42, 4, 76, 3,4,7)
 
 mean_value <- mean(values)
 max_value  <- max(values)
